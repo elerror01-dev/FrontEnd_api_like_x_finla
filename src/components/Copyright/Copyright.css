@@ -1,0 +1,9 @@
+.copyright {
+  background-color: blue;
+}
+.copyright__paragraph {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 68 px;
+  color: violet;
+  font-weight: bold;
+}
