@@ -1,7 +1,7 @@
 import { AppContext } from "./components/Context/AppContext";
 import Header from "./components/Header/Header";
 import "./App.css";
-import Main from "./components/Main/main";
+import Main from "./components/Main/Main";
 import Footer from "./components/Footer/Footer";
 import api from "./dataProvider/api";
 import { useEffect, useState } from "react";
